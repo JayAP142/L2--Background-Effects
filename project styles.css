@@ -1,0 +1,28 @@
+#square{
+    background-size: 500px;
+    background: linear-gradient(blue,red);
+    height: 300px;
+    width: 300px;
+}
+
+#circle{
+    background-size: 500px;
+    background:linear-gradient(yellow, green);
+    height: 300px;
+    width: 300px;
+    border-radius: 300px;
+}
+
+#rhombus{
+background: radial-gradient(orange,purple);
+height: 250px;
+width: 250px;
+rotate: 45deg;
+}
+
+#rectangle{
+    background: radial-gradient(red, orange, yellow, green, blue, indigo, violet);
+height: 175px;
+width: 500px;
+}
+
